@@ -5,6 +5,9 @@ Book Ticket  |   Cancle Ticket |   Disable Booked Seat |  Ticket Receipt
 Store data in redux, dispach action to redux, render item to UI 
 
 Here is the illustration: 
+
+
+
 ![github](https://media.giphy.com/media/X7LxLFYMoShSHaYcxR/giphy.gif)
 
 # Getting Started with Create React App
