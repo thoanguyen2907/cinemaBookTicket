@@ -7,8 +7,13 @@ Store data in redux, dispach action to redux, render item to UI
 Here is the illustration: 
 
 
-
 ![github](https://media.giphy.com/media/X7LxLFYMoShSHaYcxR/giphy.gif)
+
+Live Demo : 
+
+
+https://thoanguyen-frontend-cv.netlify.app/work.html
+
 
 # Getting Started with Create React App
 
