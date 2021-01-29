@@ -1,4 +1,4 @@
-This Cineman Booking Ticket project is created by using React + Redux. 
+This Cinema Booking Ticket project is created by using React + Redux. 
 Features: 
 Book Ticket  |   Cancle Ticket |   Disable Booked Seat |  Ticket Receipt 
 
